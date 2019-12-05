@@ -1,0 +1,2 @@
+[12/05/2019 14:33:32] - This is a sample log entry
+[12/05/2019 14:34:10] - This is a secondary sample log entry
